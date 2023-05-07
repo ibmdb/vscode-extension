@@ -12,7 +12,7 @@ Please open an issue [here](https://github.com/ibmdb/vscode-extension/issues) fo
 For connectivity against DB2 for LUW or Informix Server using db2connect vscode extension, 
 no license file is required. However, if you want to use db2connect vscode extension 
 against DB2 for z/OS or DB2 for i(AS400) Servers, you must have db2connect 
-license of version 11.1 if server is not db2connectactivated to accept
+license of version 11.5 if server is not db2connectactivated to accept
 unlimited number of client connection. You can buy db2connect license from IBM.
 The connectivity can be enabled either on server using db2connectactivate
 utility or on client using client side license file. If you have client side
